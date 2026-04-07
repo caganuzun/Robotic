@@ -1,0 +1,4 @@
+​Birden fazla koşulu birleştirmek için kullanılır.
+​and: Her iki koşul da doğruysa True döner.
+​or: Koşullardan en az biri doğruysa True döner.
+​not: Koşulun sonucunu tersine çevirir.
