@@ -1,0 +1,3 @@
+Sayıları ikilik (binary) sistemde işlemek için kullanılır.
+​& (AND), | (OR), ^ (XOR), ~ (NOT)
+​<< (Sola kaydırma), >> (Sağa kaydırma)
