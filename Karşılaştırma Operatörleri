@@ -1,0 +1,8 @@
+Karşılaştırma Operatörleri
+​İki değeri karşılaştırır ve sonuç olarak True (Doğru) veya False (Yanlış) döndürür.
+​==: Eşittir
+​!=: Eşit değildir
+​> : Büyüktür
+​< : Küçüktür
+​>=: Büyük eşittir
+​<=: Küçük eşittir
