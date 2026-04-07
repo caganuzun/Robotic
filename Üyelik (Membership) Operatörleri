@@ -1,0 +1,3 @@
+​Bir değerin bir dizi (list, string, tuple vb.) içinde olup olmadığını kontrol eder.
+​in: Değer dizinin içindeyse True döner.
+​not in: Değer dizinin içinde değilse True döner.
