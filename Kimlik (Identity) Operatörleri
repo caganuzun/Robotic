@@ -1,0 +1,3 @@
+​Nesnelerin aynı bellek adresine sahip olup olmadığını kontrol eder.
+​is: Nesneler aynıysa True döner.
+​is not: Nesneler farklıysa True döner.
